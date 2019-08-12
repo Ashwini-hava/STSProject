@@ -3,7 +3,6 @@ package com.psl.demo;
 public class Employee {
 	
 	private String firstName;
-	private String middleName;
 	private String lastName;
 	private double hourlyRate;
 	

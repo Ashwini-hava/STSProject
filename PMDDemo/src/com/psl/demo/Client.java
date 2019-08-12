@@ -8,7 +8,7 @@ public class Client {
 		Employee.setLastName("smith");
 		Employee.setHourlyRate(10);
 		
-		System.out.println(employee.toString());
+	
 		System.out.println(employee.toString());
 		
 		
