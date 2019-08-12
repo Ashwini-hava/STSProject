@@ -9,8 +9,6 @@ public class Employee {
        this.firstName = "john";
        this.lastName = "Doe";
        this.hourlyRate = 10;
-       
-guikjbhkmnjb
 	}
 
 	public Employee(String firstName, String lastName, double hourlyRate) {
