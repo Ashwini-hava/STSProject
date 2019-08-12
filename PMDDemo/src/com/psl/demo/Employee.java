@@ -9,6 +9,8 @@ public class Employee {
        this.firstName = "john";
        this.lastName = "Doe";
        this.hourlyRate = 10;
+       
+       segdfcuksdjh.bcfsdnjbbjnkmk
 	}
 
 	public Employee(String firstName, String lastName, double hourlyRate) {
