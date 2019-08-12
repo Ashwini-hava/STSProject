@@ -9,6 +9,8 @@ public class Client {
 		Employee.setHourlyRate(10);
 		
 		System.out.println(employee.toString());
+		System.out.println(employee.toString());
+		
 		
 		System.out.println(employee.getPayment(40));
 		
