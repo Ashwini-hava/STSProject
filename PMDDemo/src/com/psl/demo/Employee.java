@@ -10,7 +10,7 @@ public class Employee {
        this.lastName = "Doe";
        this.hourlyRate = 10;
        
-       segdfcuksdjh.bcfsdnjbbjnkmk
+guikjbhkmnjb
 	}
 
 	public Employee(String firstName, String lastName, double hourlyRate) {
