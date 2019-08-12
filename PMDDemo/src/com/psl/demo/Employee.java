@@ -16,8 +16,6 @@ public class Employee {
 		this.firstName = firstName;
 		this.lastName = lastName;
 		this.hourlyRate = hourlyRate;
-		
-		bvjgsuojgcbsm,
 	}
 
 	public String getFirstName() {
